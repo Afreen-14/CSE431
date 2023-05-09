@@ -7,7 +7,7 @@ https://github.com/akhylis/cse431/blob/d91db7be80c516eb03c3a921eb8a1e2381661d76/
 Native/original format: 
 https://drive.google.com/file/d/1E5LwzNrbMd8S4Fif2DVyfDVd4eBKMevv/view?usp=sharing
 
-Name, Author, Edition, year, and publisher of the Book:
+Name, Author, Edition,year, and publisher of the Book:
 Speech and Language Processing
 Dan Jurafsky & James H. Martin
 3rd edition
