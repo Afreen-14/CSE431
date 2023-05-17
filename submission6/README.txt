@@ -1,8 +1,9 @@
 Overleaf link with edit access to ST, RA and my gmail.
-https://www.overleaf.com/project/635ffbdbb4482387916234af
+https://www.overleaf.com/read/yhhgkrrhnpfn
+
 
 Unlisted YouTube video:
-https://www.youtube.com/watch?v=88tFvoSQDtw
+https://youtu.be/88tFvoSQDtw
 
 Conference submitted paper / paper submission / login Link:
 
@@ -12,16 +13,18 @@ Utilizing NLP and Neural Networks for Effective Detection of Inappropriate Comme
 
 
 Paper submission date (to workshop/conference):
+https://cmt3.research.microsoft.com/ASYU2023
 
 
 Paper submission ID: (received) from conference/workshop
+15
 
 
 Conference Name:
-CICN
+ASYU 202
 
 Conference URL:
-
+http://asyu.inista.org/EN/index.html
 
 Group Number:
 03
