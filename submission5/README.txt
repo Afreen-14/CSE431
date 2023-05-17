@@ -14,15 +14,18 @@ Paper presentation (anyone can view without login):
 
 
 Paper submission date (to workshop/conference):
+https://cmt3.research.microsoft.com/ASYU2023
 
 
 Paper submission ID: (received) from conference/workshop
+15
 
 
 Conference Name:
-
+ASYU 202
 
 Conference URL:
+http://asyu.inista.org/EN/index.html
 
 
 Group Number:
